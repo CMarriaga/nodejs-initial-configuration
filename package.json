@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-initial-configuration",
+  "version": "0.1.0",
+  "description": "Initial nodejs configuration for a new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMarriaga/nodejs-initial-configuration.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Cristian Marriaga Cayon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMarriaga/nodejs-initial-configuration/issues"
+  },
+  "homepage": "https://github.com/CMarriaga/nodejs-initial-configuration#readme"
+}
