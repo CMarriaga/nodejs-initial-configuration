@@ -1,0 +1,26 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2019
+  },
+  "extends": ["eslint:recommended", "google", "prettier"],
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "node": true,
+    "browser": true,
+    "mocha": true
+  },
+  "rules": {
+    "no-console": "warn",
+    "max-len": [
+      "error",
+      {
+        "code": 120
+      }
+    ],
+    "require-jsdoc": "off"
+    // "linebreak-style": "off",
+    // "operator-linebreak": ["error", "before"],
+    // "newline-per-chained-call": [1, { "ignoreChainWithDepth": 2 }]
+  }
+}

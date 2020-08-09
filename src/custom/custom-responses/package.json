@@ -1,0 +1,16 @@
+{
+  "name": "custom-responses",
+  "version": "0.1.0",
+  "description": "Custom responses for the initial configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "JSON",
+    "Error"
+  ],
+  "author": "Cristian Marriaga Cayon",
+  "license": "MIT"
+}
